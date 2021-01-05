@@ -18,7 +18,7 @@
 * 服务名需要在 ./tars/tars.proto.php 里面正确配置
 * 不使用tars平台下发的端口号,按照thinkphp的方式配置
 
-#感谢
+#感谢<br>
 [TARS Foundation Official Website](https://tarscloud.org/foundation/index)<br>
 [swoole](https://github.com/swoole/swoole-src)<br>
 [dpp2009](https://github.com/dpp2009/thinkphpInTars)
